@@ -1,7 +1,7 @@
 # Facial-Emotion-Recognition-using-Deep-Learning
 
 
-This project focuses on enhancing **Facial Emotion Recognition (FER)** performance on the **FER-2013 dataset** using deep learning models. The goal is to classify facial expressions into seven categories: *Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral*.  
+This project focuses on enhancing **Facial Emotion Recognition (FER)** performance on the **FER-2013 dataset** using deep learning models. The goal is to classify facial expressions into categories like : *Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral*.  
 
 While facial emotion recognition is challenging due to **low resolution, noise, and textural variations**, this project integrates deep learning with preprocessing techniques to improve accuracy and builds a **real-time emotion detection system**.
 
