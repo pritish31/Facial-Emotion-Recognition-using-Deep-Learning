@@ -34,6 +34,8 @@ While facial emotion recognition is challenging due to **low resolution, noise, 
 - **Deployment**: Real-time emotion detection with OpenCV, Streamlit (planned)  
 - **Version Control & Workflow**: Git, GitHub  
 
+<img width="500" height="200" alt="output_image" src="https://github.com/pritish31/Facial-Emotion-Recognition-using-Deep-Learning/blob/main/output/project5_emotion.png" />
+
 ## 👥 Contributors
 
 - **Vaishnavi Gawale** – Project member
