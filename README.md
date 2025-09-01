@@ -33,6 +33,9 @@ While facial emotion recognition is challenging due to **low resolution, noise, 
 - **Model Evaluation**: Accuracy, Precision, Recall, F1-score, Confusion Matrix  
 - **Deployment**: Real-time emotion detection with OpenCV, Streamlit (planned)  
 - **Version Control & Workflow**: Git, GitHub  
+---
+
+## 📊 Predictions
 
 <img width="300" height="200" alt="output_image" src="https://github.com/pritish31/Facial-Emotion-Recognition-using-Deep-Learning/blob/main/output/project5_emotion.png" />
 
